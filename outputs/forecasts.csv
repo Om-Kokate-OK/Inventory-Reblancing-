@@ -1,0 +1,51 @@
+SKU,Zone,Predicted_Week,Forecast_Quantity,Current_Stock
+Biscuits,Chennai,2025-06-30,179,320
+Biscuits,Delhi,2025-06-30,83,263
+Biscuits,Lucknow,2025-06-30,168,881
+Biscuits,Nagpur,2025-06-30,172,532
+Biscuits,Pune,2025-06-30,82,384
+Chips,Chennai,2025-06-30,186,132
+Chips,Delhi,2025-06-30,188,792
+Chips,Lucknow,2025-06-30,155,195
+Chips,Nagpur,2025-06-30,144,658
+Chips,Pune,2025-06-30,133,704
+Juice,Chennai,2025-06-30,149,266
+Juice,Delhi,2025-06-30,219,489
+Juice,Lucknow,2025-06-30,118,463
+Juice,Nagpur,2025-06-30,142,564
+Juice,Pune,2025-06-30,141,954
+Milk,Chennai,2025-06-30,265,328
+Milk,Delhi,2025-06-30,163,754
+Milk,Lucknow,2025-06-30,134,854
+Milk,Nagpur,2025-06-30,172,125
+Milk,Pune,2025-06-30,124,381
+Oil,Chennai,2025-06-30,187,487
+Oil,Delhi,2025-06-30,127,144
+Oil,Lucknow,2025-06-30,83,665
+Oil,Nagpur,2025-06-30,122,570
+Oil,Pune,2025-06-30,133,227
+Rice,Chennai,2025-06-30,196,452
+Rice,Delhi,2025-06-30,144,204
+Rice,Lucknow,2025-06-30,168,370
+Rice,Nagpur,2025-06-30,153,489
+Rice,Pune,2025-06-30,123,467
+Shampoo,Chennai,2025-06-30,86,691
+Shampoo,Delhi,2025-06-30,149,949
+Shampoo,Lucknow,2025-06-30,197,821
+Shampoo,Nagpur,2025-06-30,136,733
+Shampoo,Pune,2025-06-30,173,982
+Soap,Chennai,2025-06-30,180,833
+Soap,Delhi,2025-06-30,122,338
+Soap,Lucknow,2025-06-30,195,818
+Soap,Nagpur,2025-06-30,153,716
+Soap,Pune,2025-06-30,149,674
+Toothpaste,Chennai,2025-06-30,166,975
+Toothpaste,Delhi,2025-06-30,201,146
+Toothpaste,Lucknow,2025-06-30,146,987
+Toothpaste,Nagpur,2025-06-30,109,333
+Toothpaste,Pune,2025-06-30,182,396
+Water Bottle,Chennai,2025-06-30,340,990
+Water Bottle,Delhi,2025-06-30,312,529
+Water Bottle,Lucknow,2025-06-30,434,877
+Water Bottle,Nagpur,2025-06-30,384,559
+Water Bottle,Pune,2025-06-30,449,384

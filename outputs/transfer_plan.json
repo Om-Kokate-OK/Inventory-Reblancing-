@@ -1,0 +1,32 @@
+[
+  {
+    "SKU":"Chips",
+    "From":"Lucknow",
+    "To":"Chennai",
+    "Quantity":40,
+    "Transport_Cost":162.0,
+    "Avoided_Loss":400.0,
+    "Net_Saving":238.0,
+    "Reason":"Overstock-Understock Gap"
+  },
+  {
+    "SKU":"Milk",
+    "From":"Chennai",
+    "To":"Nagpur",
+    "Quantity":47,
+    "Transport_Cost":286.0,
+    "Avoided_Loss":470.0,
+    "Net_Saving":184.0,
+    "Reason":"Overstock-Understock Gap"
+  },
+  {
+    "SKU":"Toothpaste",
+    "From":"Chennai",
+    "To":"Delhi",
+    "Quantity":56,
+    "Transport_Cost":133.0,
+    "Avoided_Loss":560.0,
+    "Net_Saving":427.0,
+    "Reason":"Overstock-Understock Gap"
+  }
+]
